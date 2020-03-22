@@ -508,8 +508,8 @@ Column
 ### Corn, Soybean, Wheat Observations
 Relationship and correlation observations.
 
-- <TODO> This distribution demonstrates volatility clustering which allows us to observe patterns in market behavior and persistent correlations in commodity price movements.
-- The scatterplot illustrates some of the outliers of each of the three ingrediants.  Wheat appears to be more concentrated around the mean but also experienced its share of volatility
+- This distribution demonstrates volatility clustering which allows us to observe patterns in market behavior and persistent correlations in commodity price movements.
+- The scatterplot illustrates the outliers of each of the three ingrediants.  Wheat appears to be more concentrated around the mean but also experienced its share of volatility.  This has a direct impact on risk measures associated to portfolio performance.
 - Soybean is also closely grouped around its mean
 - Corn experienced the most volatility with points appearing the furthest from the mean.  
 - There is a strong correlation (.89) between Corn and Soybean.  This was initially expected since both of these ingrediant are used in similar applications or in the creation of bread? which is used for a significant number of base foods.  
