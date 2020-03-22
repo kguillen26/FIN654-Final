@@ -30,7 +30,7 @@ We are a wholesale distributor of soybean and wheat; we are considering adding c
 1.	Retrieve and begin to analyze data about potential commodities to diversify into
 2.	Compare potential commodities with existing commodities in conventional agricultural spot markets
 3.	Begin to generate economic scenarios based on events that may, or may not, materialize in the commodities
-4.	The company wants to mitigate their risk by using future contracts, which will require closely monotoring the agricultural spot market and continued speculation on future price movements.
+4.	The company wants to mitigate their risk by using future contracts, which will require closely monitoring the agricultural spot market and continued speculation on future price movements.
 
 ### Data and analysis to inform the decision
 
@@ -1361,5 +1361,7 @@ Tversky, A and Kahneman, D. (1992), Advances in Prospect Theory: Cumulative repr
 von Nuemann, J. and Morgenstern, O. (1944), Theory of games and economic behaviour, Princeton University Press. 
 
 Zou, Hui and and Ming Yuan (2008), Composite quantile regression and the Oracle model selection theory, Annals of Statistics, 36, 1108-11120.
+
+Jacob Bunge, Kirk Maltais and Jesse Newman (2020) Coronavirus Hits Already Frail U.S. Farm Economy (https://www.wsj.com/articles/coronavirus-hits-already-frail-u-s-farm-economy-11584783001)
 
 
